@@ -8,5 +8,10 @@
   {
     "name": "Ashini Plugin",
     "entry": "./plugins/Ashini-plugin/plugin.js"
+  },
+
+  {
+    "name": "Example Plugin",
+    "entry": "./plugins/Example-plugin/plugin.js"
   }
 ]
