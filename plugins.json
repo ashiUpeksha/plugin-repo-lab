@@ -2,5 +2,11 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+
+  
+  {
+    "name": "Ashini Plugin",
+    "entry": "./plugins/Ashini-plugin/plugin.js"
   }
 ]
